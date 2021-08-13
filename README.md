@@ -1,3 +1,5 @@
+## Original forked from https://github.com/aws/aws-sdk-js
+
 # AWS SDK for JavaScript
 
 [![NPM version](https://img.shields.io/npm/v/aws-sdk.svg)](https://www.npmjs.com/package/aws-sdk)
